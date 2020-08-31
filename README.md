@@ -20,13 +20,13 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 
 ### Deliverable 2
 
-**Image 1 (below): Flask site with the images of Mars Hemispheres**
+**Image 2 (below): Flask site with the images of Mars Hemispheres**
 
 ![Flask site with the images of Mars Hemispheres](./resources/Deliverable2_output.png)
 
 ### Deliverable 3a
 
-**Image 1 (below): Flask site changed to a responsive one**
+**Image 3 (below): Flask site changed to a responsive one**
 
 ![Flask site changed to a responsive one](./resources/deliverable3_responsive_site.png)
 
@@ -43,6 +43,6 @@ Adding two other Bootstrap 3 components
     <div class="col-md-3">
     ```
 
-**Image 1 (below): Flask site with Bootstrap changes**
+**Image 4 (below): Flask site with Bootstrap changes**
 
 ![Flask site with Bootstrap changes](./resources/deliverable3_bootstrap_changes.png)
