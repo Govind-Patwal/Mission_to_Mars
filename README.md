@@ -24,12 +24,12 @@
 ### Deliverable 3b
 
 Adding two other Bootstrap 3 components
-1. Styled the "Scrape New Data" button.
+1. Styled the "Scrape New Data" button - changed the color to `green`
     ``` 
     <p><a class="btn btn-success btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
     ```
 
-2. Added code to have the 4 images side by side
+2. Changed the Hemisphere display matrix from 2x2 to 4x1 so all hemisphere are in one row
     ```
     <div class="col-md-3">
     ```
